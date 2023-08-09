@@ -41,7 +41,7 @@ Based on the so-called privacy issues, the mainstream VR Headset manufacturers d
 | SDK | README |
 | ------ | ------ |
 | Unity | [Advanced Guardian Example](https://github.com/picoxr/Advanced-Guardian-Example/blob/main/README.md) |
-| Unreal | [by blueprints, only NEO 3E](https://pdocor.pico-interactive.com/reference/unreal/xr/12832/enable-large-space/) |
+| Unreal | [by blueprints](https://pdocor.pico-interactive.com/reference/unreal/xr/12832/enable-large-space/) |
 
 &emsp;&emsp;`support area: 20m*20m = 400m^2`
 

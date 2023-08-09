@@ -56,7 +56,7 @@ Based on the so-called privacy issues, the mainstream VR Headset manufacturers d
 | Unity | [Shared Spatial Anchors](https://github.com/oculus-samples/Unity-SharedSpatialAnchors/blob/main/README.md) |
 | Unreal | [Shared Spaces](https://github.com/oculus-samples/Unreal-SharedSpaces/blob/main-5.x/README.md) |
 
-&emsp;&emsp;`use anchors point clouds sharing, not location-based`
+&emsp;&emsp;`use anchors point clouds sharing, not marker-based`
 
 
 

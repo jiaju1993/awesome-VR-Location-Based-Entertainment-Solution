@@ -56,7 +56,7 @@ Based on the so-called privacy issues, the mainstream VR Headset manufacturers d
 | Unity | [Shared Spatial Anchors](https://github.com/oculus-samples/Unity-SharedSpatialAnchors/blob/main/README.md) |
 | Unreal | [Shared Spaces](https://github.com/oculus-samples/Unreal-SharedSpaces/blob/main-5.x/README.md) |
 
-&emsp;&emsp;`use anchors point clouds sharing, not exactly location-based`
+&emsp;&emsp;`use anchors point clouds sharing, not location-based`
 
 
 
@@ -73,7 +73,7 @@ Based on the so-called privacy issues, the mainstream VR Headset manufacturers d
 
 # Use Cases
 
-- Game: [zerolatencyvr](https://zerolatencyvr.com/games/)
+- Game: [zerolatencyvr，perhaps using HP Reverb G2](https://zerolatencyvr.com/games/) 
 - Exhibition: [horizon kheops](https://horizonkheops.com/en/home/)、[The Infinite](https://theinfiniteexperience.world/en)
 
 <a name="Others"></a>

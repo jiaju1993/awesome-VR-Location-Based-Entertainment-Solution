@@ -17,7 +17,7 @@ Based on the so-called privacy issues, the mainstream VR Headset manufacturers d
 
 - [VR headset manufacturers (Official Solutions)](#VR)
 - [Third Party Hardware Solutions](#TPH)
-- [Third Party Software app development company](#TPS)
+- [Use Cases](#TPS)
 - [Others](#Others)
 
   <a name="VR"></a>
@@ -31,12 +31,23 @@ Based on the so-called privacy issues, the mainstream VR Headset manufacturers d
 | Unity | - |
 | Unreal | - |
 
+&emsp;&emsp;`support area: 33m*30m = 1000m^2`
+
+
+
+
 - Pico [4 Enterprise / NEO 3 Enterprise](https://business.picoxr.com/cn/doc/Enterprise-Settings-LBE-v1.2) ：Currently only Chinese Version
 
 | SDK | README |
 | ------ | ------ |
 | Unity | [Advanced Guardian Example](https://github.com/picoxr/Advanced-Guardian-Example/blob/main/README.md) |
-| Unreal | - |
+| Unreal | [by blueprints, only NEO 3E](https://pdocor.pico-interactive.com/reference/unreal/xr/12832/enable-large-space/) |
+
+&emsp;&emsp;`support area: 20m*20m = 400m^2`
+
+
+
+
 
 - Meta Quest [Pro / 2](https://developer.oculus.com/blog/build-local-multiplayer-experiences-shared-spatial-anchors)：Currently no unified portal
 
@@ -45,19 +56,25 @@ Based on the so-called privacy issues, the mainstream VR Headset manufacturers d
 | Unity | [Shared Spatial Anchors](https://github.com/oculus-samples/Unity-SharedSpatialAnchors/blob/main/README.md) |
 | Unreal | [Shared Spaces](https://github.com/oculus-samples/Unreal-SharedSpaces/blob/main-5.x/README.md) |
 
+&emsp;&emsp;`use anchors point clouds sharing, not exactly location-based`
+
+
+
+
 
 <a name="TPH"></a>
 
-# Third Party Hardware Solutions
+# Third Party Hardware / Software Solutions
 
 - External camera: [antilatency](https://antilatency.com/)
+- External cloud map: [EasyAR MEGA](https://www.bilibili.com/video/BV1Zg4y1c7CS/?spm_id_from=333.999.0.0&vd_source=ba8f33ad83a9dcb49b3b3813840bed1d)
 
 <a name="TPS"></a>
 
-# Third Party Software Use Cases
+# Use Cases
 
 - Game: [zerolatencyvr](https://zerolatencyvr.com/games/)
-- Exhibition: [horizon kheops](https://horizonkheops.com/en/home/)
+- Exhibition: [horizon kheops](https://horizonkheops.com/en/home/)、[The Infinite](https://theinfiniteexperience.world/en)
 
 <a name="Others"></a>
 

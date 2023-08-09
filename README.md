@@ -1,6 +1,6 @@
-# Awesome VR Headset（All In One） Location-Based / Shared-Space / Free-Roam / Shared-Spatial-Anchors multiplayer Solution
+# Awesome VR Headset（All-in-One） Location-Based / Shared-Space / Free-Roam / Shared-Spatial-Anchors multiplayer Solution
 
-## Software or hardware solutions to Location-based / multiplayer VR games or exhibitions
+## focus on all-in-one VR Headset, not pc-powered VR Headset (although using the same marker-based tracking solution)
 
 Based on the so-called privacy issues, the mainstream VR Headset manufacturers do not support third-party applications to read the video stream of the camera（though users can still use Passthrough funtion to see outside）, and thus the third-party programs can not spot identification markers through cameras to obtain the location of the space, but the device vendors have also retained the permission to use the external camera on the enterprise version, although this may lead to higher costs
 
@@ -73,8 +73,9 @@ Based on the so-called privacy issues, the mainstream VR Headset manufacturers d
 
 # Use Cases
 
-- Game: [zerolatencyvr，perhaps using HP Reverb G2](https://zerolatencyvr.com/games/) 
+- Game: [zerolatencyvr](https://zerolatencyvr.com/games/) 
 - Exhibition: [horizon kheops](https://horizonkheops.com/en/home/)、[The Infinite](https://theinfiniteexperience.world/en)
+  * still most using pc-powered VR
 
 <a name="Others"></a>
 

@@ -1,3 +1,6 @@
+[English](README.md),
+[中文](README.zh-CN.md)
+
 # Awesome VR Location-Based-Entertainment Solution
 Location Based Entertainment / Shared Space / Free Roam / Shared Spatial Anchors / multiplayer
 ### For large space roaming with multiplayer situation, VR headset should not require external base stations, and better have cameras with passthrough ability. <br/>So we mainly focus on resently top standalone VR headset, and only one particular pc-powered VR Headset.
@@ -9,7 +12,7 @@ Based on the so-called privacy issues, the mainstream VR Headset manufacturers d
 <!-- MarkdownTOC depth=4 -->
 
 - [VR headset manufacturers (Official Solutions)](#VR)
-- [Third Party Hardware Solutions](#TPH)
+- [Third Party Hardware / Software Solutions](#TPH)
 - [Use Cases](#TPS)
 - [Others](#Others)
 

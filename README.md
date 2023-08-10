@@ -2,15 +2,8 @@
 Location Based Entertainment / Shared Space / Free Roam / Shared Spatial Anchors / multiplayer
 ### For large space roaming with multiplayer situation, VR headset should not require external base stations, and better have cameras with passthrough ability. <br/>So we mainly focus on resently top standalone VR headset, and only one particular pc-powered VR Headset.
 
-Based on the so-called privacy issues, the mainstream VR Headset manufacturers do not support third-party applications to read the live video stream of the camera (though users can still use Passthrough ability to see outside) and thus the third-party programs can not spot identification markers through on-board cameras to obtain the location of the space, but the device vendors have also retained the permission to use the external camera on the enterprise version, although this may lead to higher costs
+Based on the so-called privacy issues, the mainstream VR Headset manufacturers do not support third-party applications to read the live video stream of the camera (though users can still use Passthrough ability to see outside) and thus the third-party programs can not spot identification markers through on-board cameras to obtain the location of the space, but the device vendors have also retained the permission to use the external camera on the enterprise version, although this may lead to higher costs.
 
-> ✨Summary✨: You need additional pay for `Camera access permissions` from VR headsets.
-
-> ✨Summary✨: You need additional pay for `Camera access permissions` from VR headsets.
-
-> ✨Summary✨: You need additional pay for `Camera access permissions` from VR headsets.
-
-（重要的事情说三遍）
 
 ## Table of Contents
 <!-- MarkdownTOC depth=4 -->
@@ -78,5 +71,10 @@ Begin your native development journey by getting acquainted with [OpenXR](https:
 ## Others worth mentioning
 - VR PC: [VR GO](https://www.zotac.com/us/product/mini_pcs/vr-go-40-windows-11-pro)
 
+## ✨Summary✨
+- You need additional fee for `Camera access permissions` from Enterprise version of hardware or software.
+- Not so awesome since there's not much choice you can do.
+- Even using standalone headset, you probably still need pc to stream.
+
 ## About us
-- [ixdera.com](https://www.ixdera.com)
+- Beijing [ixdera.com](https://www.ixdera.com)

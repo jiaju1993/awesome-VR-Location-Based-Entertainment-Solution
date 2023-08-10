@@ -78,7 +78,7 @@ Begin your native development journey by getting acquainted with [OpenXR](https:
 
 # Use Cases
 
-- Game: [zerolatencyvr](https://zerolatencyvr.com/games/) using HP Reverb G2 Omnicept Edition
+- Game: [zerolatencyvr](https://zerolatencyvr.com/games/) 
 - Exhibition: [horizon kheops](https://horizonkheops.com/en/home/)、[The Infinite](https://theinfiniteexperience.world/en)
 
 

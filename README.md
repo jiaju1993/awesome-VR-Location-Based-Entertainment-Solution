@@ -73,7 +73,7 @@ Based on the so-called privacy issues, the mainstream VR Headset manufacturers d
 
 # Use Cases
 
-- Game: [zerolatencyvr](https://zerolatencyvr.com/games/) using pc-powered HP Reverb G2
+- Game: [zerolatencyvr](https://zerolatencyvr.com/games/) using HP Reverb G2 Omnicept Edition
 - Exhibition: [horizon kheops](https://horizonkheops.com/en/home/)、[The Infinite](https://theinfiniteexperience.world/en)
 
 

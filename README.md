@@ -70,6 +70,7 @@ Begin your native development journey by getting acquainted with [OpenXR](https:
 
 ## Others worth mentioning
 - VR PC: [VR GO](https://www.zotac.com/us/product/mini_pcs/vr-go-40-windows-11-pro)
+- VR Compare：[vrcompare](https://vr-compare.com/compare?h1=-MpSqv-rB&h2=QCggQgEXT&h3=vEajWefj-&h4=2WZ0E44Hw)
 
 ## ✨Summary✨
 - You need additional fee for `Camera access permissions` from Enterprise version of hardware or software.

@@ -2,7 +2,7 @@
 ## We mainly focus on resently top standalone VR headset, not pc-powered VR Headset (still with one mentioned below).
 ### For large space with multiplayer situation，VR headset should not require external base stations, and better have cameras with passthrough ability. 
 
-Based on the so-called privacy issues, the mainstream VR Headset manufacturers do not support third-party applications to read the video stream of the camera（though users can still use Passthrough funtion to see outside）, and thus the third-party programs can not spot identification markers through cameras to obtain the location of the space, but the device vendors have also retained the permission to use the external camera on the enterprise version, although this may lead to higher costs
+Based on the so-called privacy issues, the mainstream VR Headset manufacturers do not support third-party applications to read the video stream of the camera（though users can still use Passthrough funtion to see outside）, and thus the third-party programs can not spot identification markers through on-board cameras to obtain the location of the space, but the device vendors have also retained the permission to use the external camera on the enterprise version, although this may lead to higher costs
 
 > ✨Summary✨: You need additional pay for `Camera access permissions` from VR headsets.
 

@@ -59,7 +59,7 @@ Based on the so-called privacy issues, the mainstream VR Headset manufacturers d
 &emsp;&emsp;`use anchors point clouds sharing, not marker-based`
 
 
-
+- Pimax Crystal QLED [TBD]
 
 
 <a name="TPH"></a>

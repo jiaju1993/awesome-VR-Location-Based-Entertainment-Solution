@@ -60,6 +60,11 @@ Based on the so-called privacy issues, the mainstream VR Headset manufacturers d
 
 
 - Pimax Crystal QLED [TBD]
+  
+- pc-powered HP Reverb [G2 / G2 Omnicept Edition](https://learn.microsoft.com/en-us/windows/mixed-reality/enthusiast-guide/enterprise-lbe-faq) 
+
+> Where should I begin with learning how to build immersive experiences for use with the Windows Mixed Reality platform or other virtual reality devices?
+Begin your native development journey by getting acquainted with [OpenXR](https://learn.microsoft.com/en-us/windows/mixed-reality/develop/native/openxr), which can be used to develop unique immersive experiences with on any Windows Mixed Reality immersive VR headset. OpenXR is an open royalty-free API standard from Khronos, providing engines with native access to various devices across the [mixed reality spectrum](https://learn.microsoft.com/en-us/windows/mixed-reality/discover/mixed-reality).
 
 
 <a name="TPH"></a>

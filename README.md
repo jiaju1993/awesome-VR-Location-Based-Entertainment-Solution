@@ -1,6 +1,6 @@
 # Awesome VR Location-Based-Entertainment Solution
-Location-Based-Entertainment / Shared-Space / Free-Roam / Shared-Spatial-Anchors / multiplayer
-### For large space roaming with multiplayer situation, VR headset should not require external base stations, and better have cameras with passthrough ability. <br/> So we mainly focus on resently top standalone VR headset, and only one particular pc-powered VR Headset.
+Location Based Entertainment / Shared Space / Free Roam / Shared Spatial Anchors / multiplayer
+### For large space roaming with multiplayer situation, VR headset should not require external base stations, and better have cameras with passthrough ability. <br/>So we mainly focus on resently top standalone VR headset, and only one particular pc-powered VR Headset.
 
 Based on the so-called privacy issues, the mainstream VR Headset manufacturers do not support third-party applications to read the live video stream of the camera (though users can still use Passthrough ability to see outside) and thus the third-party programs can not spot identification markers through on-board cameras to obtain the location of the space, but the device vendors have also retained the permission to use the external camera on the enterprise version, although this may lead to higher costs
 
@@ -72,7 +72,6 @@ Begin your native development journey by getting acquainted with [OpenXR](https:
 
 - Game: [zerolatencyvr](https://zerolatencyvr.com/games/) 
 - Exhibition: [horizon kheops](https://horizonkheops.com/en/home/)、[The Infinite](https://theinfiniteexperience.world/en)
-
 
 <a name="Others"></a>
 

@@ -38,7 +38,7 @@ Location Based Entertainment / Shared Space / Free Roam / Shared Spatial Anchors
 
   `支持空间尺寸: 20m*20m = 400m^2`
 
-- Meta Quest [Pro / 2](https://developer.oculus.com/blog/build-local-multiplayer-experiences-shared-spatial-anchors)：目前没有统一的入口
+- Meta Quest [Pro / 2](https://developer.oculus.com/blog/build-local-multiplayer-experiences-shared-spatial-anchors)：目前没有统一的web入口，只有这个blog
 
   | SDK | README |
   | ------ | ------ |

@@ -29,7 +29,7 @@ Location Based Entertainment / Shared Space / Free Roam / Shared Spatial Anchors
 
   `支持空间尺寸: 33m*30m = 1000m^2`
 
-- Pico [4 Enterprise / NEO 3 Enterprise](https://business.picoxr.com/cn/doc/Enterprise-Settings-LBE-v1.2) ：Currently only Chinese Version
+- Pico [4 Enterprise / NEO 3 Enterprise](https://business.picoxr.com/cn/doc/Enterprise-Settings-LBE-v1.2) ：目前只有中文版本
 
   | SDK | README |
   | ------ | ------ |
@@ -38,7 +38,7 @@ Location Based Entertainment / Shared Space / Free Roam / Shared Spatial Anchors
 
   `支持空间尺寸: 20m*20m = 400m^2`
 
-- Meta Quest [Pro / 2](https://developer.oculus.com/blog/build-local-multiplayer-experiences-shared-spatial-anchors)：Currently no unified portal
+- Meta Quest [Pro / 2](https://developer.oculus.com/blog/build-local-multiplayer-experiences-shared-spatial-anchors)：目前没有统一的入口
 
   | SDK | README |
   | ------ | ------ |
@@ -47,7 +47,7 @@ Location Based Entertainment / Shared Space / Free Roam / Shared Spatial Anchors
 
   `使用锚点分享，不是marker识别技术，精度取决于离公共锚点距离`
 
-- Pimax Crystal QLED [TBD]
+- Pimax Crystal QLED [待补充]
 
 - pc-powered HP Reverb [G2 / G2 Omnicept Edition](https://learn.microsoft.com/en-us/windows/mixed-reality/enthusiast-guide/enterprise-lbe-faq) 
 

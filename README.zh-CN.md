@@ -29,7 +29,7 @@ Location Based Entertainment / Shared Space / Free Roam / Shared Spatial Anchors
 
   `支持空间尺寸: 33m*30m = 1000m^2`
 
-- Pico [4 Enterprise / NEO 3 Enterprise](https://business.picoxr.com/cn/doc/Enterprise-Settings-LBE-v1.2) ：目前只有中文版本
+- Pico [4 Enterprise / NEO 3 Enterprise](https://business.picoxr.com/cn/doc/Enterprise-Settings-LBE-v1.3) 
 
   | SDK | README |
   | ------ | ------ |

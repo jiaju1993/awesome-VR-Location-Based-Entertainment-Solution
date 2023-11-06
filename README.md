@@ -29,7 +29,7 @@ Based on the so-called privacy issues, the mainstream VR Headset manufacturers d
 
   `support area: 33m*30m = 1000m^2`
 
-- Pico [4 Enterprise / NEO 3 Enterprise](https://business.picoxr.com/cn/doc/Enterprise-Settings-LBE-v1.2) ：Currently only Chinese Version
+- Pico [4 Enterprise / NEO 3 Enterprise](https://business.picoxr.com/global/doc/RoomMarkerLayoutRecommendationsandGuide)
 
   | SDK | README |
   | ------ | ------ |
